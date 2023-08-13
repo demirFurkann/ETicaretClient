@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\services",
+    "\\src\\app\\services\\common",
+    "\\src\\app\\services\\common\\models",
+    "\\src\\app\\services\\ui"
+  ],
+  "PreviewInSolutionExplorer": false
+}
