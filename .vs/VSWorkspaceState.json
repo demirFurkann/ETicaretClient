@@ -3,10 +3,12 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\dialogs",
+    "\\src\\app\\dialogs\\delete-dialog",
     "\\src\\app\\services",
+    "\\src\\app\\services\\admin",
     "\\src\\app\\services\\common",
-    "\\src\\app\\services\\common\\models",
-    "\\src\\app\\services\\ui"
+    "\\src\\app\\services\\common\\file-upload"
   ],
   "PreviewInSolutionExplorer": false
 }
